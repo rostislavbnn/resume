@@ -10,7 +10,7 @@
 | [Математика. Цепи Маркова. SVD](https://github.com/rostislavbnn/resume/blob/main/math-markov-svd-analysis.ipynb) | Использование цепей Маркова. Сингулярное разложение (SVD) | Python, NumPy |
 | [Аналог SymPy](https://github.com/rostislavbnn/resume/blob/main/SimpleSymPy.ipynb) | Создание собвенного аналога SymPy с нуля на Python | Python, LaTeX, деревья, графы |
 | [SQL запросы](https://github.com/rostislavbnn/resume/blob/main/sql-queries-portfolio.ipynb) | Примеры учебных SQL запросов: VIEWS, Triggers, Cursors, Stored Procedures | SQL, PL/pgSQL, PostgreSQL |
-| [Визуализация задачи о N-жуках](https://github.com/rostislavbnn/resume/blob/main/bug-chase-simulation.py) | Интерактивная визуализация классической математической задачи о N жуках | Python, Tkinter, Math |
+| [Задача о N-жуках](https://github.com/rostislavbnn/resume/blob/main/bug-chase-simulation.py) | Интерактивная визуализация классической математической задачи о N жуках | Python, Tkinter, Math |
 | [Число Пи Монте-Карло](https://github.com/rostislavbnn/resume/blob/main/monte-carlo-pi.py) | Интерактивная визуализация метода Монте-Карло для приближённого вычисления числа π | Python, NumPy, Matplotlib, Tkinter, Math |
 
 
