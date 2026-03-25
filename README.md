@@ -7,7 +7,7 @@
 | [📡 Телеком EDA](https://github.com/rostislavbnn/resume/blob/main/eda-telecom-customer.ipynb) | Анализ клиентской базы (5000+ записей) | Python, Pandas |
 | [🛒 Ритейл EDA](https://github.com/rostislavbnn/resume/blob/main/eda-retail-segmentation.ipynb) | Сегментация покупателей по демографии | Python, Seaborn |
 | [🏥 Медицина EDA](https://github.com/rostislavbnn/resume/blob/main/eda-diabetes-risk.ipynb) | Поиск маркеров диабета, корреляции | Python, Phik |
-| [Математика. Марков. SVD](https://github.com/rostislavbnn/resume/blob/main/math-markov-svd-analysis.ipynb) | Использование цепей Маркова. Сингулярное разложение (SVD) | Python, NumPy |
+| [Математика. Цепи Маркова. SVD](https://github.com/rostislavbnn/resume/blob/main/math-markov-svd-analysis.ipynb) | Использование цепей Маркова. Сингулярное разложение (SVD) | Python, NumPy |
 | [Аналог SymPy](https://github.com/rostislavbnn/resume/blob/main/SimpleSymPy.ipynb) | Создание собвенного аналога SymPy с нуля на Python | Python, LaTeX, деревья, графы |
 | [SQL запросы](https://github.com/rostislavbnn/resume/blob/main/sql-queries-portfolio.ipynb) | Примеры учебных SQL запросов: VIEWS, Triggers, Cursors, Stored Procedures | SQL, PL/pgSQL, PostgreSQL |
 
